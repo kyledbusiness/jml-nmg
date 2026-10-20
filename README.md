@@ -19,9 +19,10 @@
 - I designed a simulated Joiner-Mover-Leaver (JML) workflow to bring structure, accountability, and verification to employee access changes. Following one employee from hire to department transfer to departure, I mapped the approvals, provisioning steps, access removals, and control checks needed at each stage.
 
 ## Video Walkthrough
-- Link
+- https://www.loom.com/share/97e2a1161e7844d7a715fc3900747eee
 
 ## Workflow: One Employee, Three Access Changes
+<img width="1536" height="1024" alt="Identity Lifecycle Management Workflow" src="https://github.com/user-attachments/assets/28858c88-bdc2-4f04-9775-f4e9a5c34f1e" />
 
 ### 1. Joiner — Registered Nurse
 
