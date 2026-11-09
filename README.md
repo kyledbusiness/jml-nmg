@@ -1,5 +1,7 @@
 # Identity Lifecycle Management (JML) Workflow & Control Assessment for Northstar Medical Group
 
+[Watch the 9-minute video breakdown](https://www.loom.com/share/97e2a1161e7844d7a715fc3900747eee)
+
 ## Problem Statement
 
 - Northstar Medical Group is growing, but its employee access process hasn’t kept up. Department transfers are handled inconsistently, and former employees may retain access after leaving. Without a reliable process for approving, completing, and verifying access changes, the organization faces unnecessary exposure to sensitive patient data and potential HIPAA compliance risks.
@@ -17,9 +19,6 @@
 ## Solution Overview
 
 - I designed a simulated Joiner-Mover-Leaver (JML) workflow to bring structure, accountability, and verification to employee access changes. Following one employee from hire to department transfer to departure, I mapped the approvals, provisioning steps, access removals, and control checks needed at each stage.
-
-## Video Walkthrough
-- https://www.loom.com/share/97e2a1161e7844d7a715fc3900747eee
 
 ## Workflow: One Employee, Three Access Changes
 <img width="1536" height="1024" alt="Identity Lifecycle Management Workflow" src="https://github.com/user-attachments/assets/28858c88-bdc2-4f04-9775-f4e9a5c34f1e" />
